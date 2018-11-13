@@ -1,0 +1,659 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NotificationVC"
+provides-nominal:
+- "16tableViewPratice14NotificationVCC"
+provides-member:
+- ["16tableViewPratice14NotificationVCC", ""]
+provides-dynamic-lookup:
+- "userNotificationCenter"
+- "viewDidLoad"
+depends-top-level:
+- !private "!="
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "FloatLiteralType"
+- "NotificationVC"
+- !private "StringLiteralType"
+- "UIViewController"
+- !private "UNMutableNotificationContent"
+- "UNNotification"
+- "UNNotificationPresentationOptions"
+- !private "UNNotificationRequest"
+- !private "UNNotificationSound"
+- !private "UNTimeIntervalNotificationTrigger"
+- "UNUserNotificationCenter"
+- "UNUserNotificationCenterDelegate"
+- "Void"
+- !private "print"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- !private ["s7CVarArgP", "UNMutableNotificationContent"]
+- !private ["s7CVarArgP", "UNNotificationRequest"]
+- !private ["s7CVarArgP", "UNNotificationSound"]
+- !private ["s7CVarArgP", "UNTimeIntervalNotificationTrigger"]
+- !private ["s7CVarArgP", "UNUserNotificationCenter"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "add"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- !private ["s7CVarArgP", "body"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "purple"]
+- !private ["s7CVarArgP", "scheduleNotification"]
+- !private ["s7CVarArgP", "sound"]
+- !private ["s7CVarArgP", "subtitle"]
+- !private ["s7CVarArgP", "title"]
+- ["s7CVarArgP", "userNotificationCenter"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "UNMutableNotificationContent"]
+- !private ["s28CustomDebugStringConvertibleP", "UNNotificationRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "UNNotificationSound"]
+- !private ["s28CustomDebugStringConvertibleP", "UNTimeIntervalNotificationTrigger"]
+- !private ["s28CustomDebugStringConvertibleP", "UNUserNotificationCenter"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "add"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- !private ["s28CustomDebugStringConvertibleP", "body"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "purple"]
+- !private ["s28CustomDebugStringConvertibleP", "scheduleNotification"]
+- !private ["s28CustomDebugStringConvertibleP", "sound"]
+- !private ["s28CustomDebugStringConvertibleP", "subtitle"]
+- !private ["s28CustomDebugStringConvertibleP", "title"]
+- ["s28CustomDebugStringConvertibleP", "userNotificationCenter"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "backgroundColor"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "purple"]
+- !private ["s23CustomStringConvertibleP", "UNMutableNotificationContent"]
+- !private ["s23CustomStringConvertibleP", "UNNotificationRequest"]
+- !private ["s23CustomStringConvertibleP", "UNNotificationSound"]
+- !private ["s23CustomStringConvertibleP", "UNTimeIntervalNotificationTrigger"]
+- !private ["s23CustomStringConvertibleP", "UNUserNotificationCenter"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "add"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- !private ["s23CustomStringConvertibleP", "body"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "purple"]
+- !private ["s23CustomStringConvertibleP", "scheduleNotification"]
+- !private ["s23CustomStringConvertibleP", "sound"]
+- !private ["s23CustomStringConvertibleP", "subtitle"]
+- !private ["s23CustomStringConvertibleP", "title"]
+- ["s23CustomStringConvertibleP", "userNotificationCenter"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "backgroundColor"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "purple"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "backgroundColor"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "purple"]
+- !private ["SQ", "UNMutableNotificationContent"]
+- !private ["SQ", "UNNotificationRequest"]
+- !private ["SQ", "UNNotificationSound"]
+- !private ["SQ", "UNTimeIntervalNotificationTrigger"]
+- !private ["SQ", "UNUserNotificationCenter"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "add"]
+- !private ["SQ", "alert"]
+- !private ["SQ", "backgroundColor"]
+- !private ["SQ", "badge"]
+- !private ["SQ", "body"]
+- !private ["SQ", "current"]
+- !private ["SQ", "default"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "print"]
+- !private ["SQ", "purple"]
+- !private ["SQ", "scheduleNotification"]
+- !private ["SQ", "sound"]
+- !private ["SQ", "subtitle"]
+- !private ["SQ", "title"]
+- ["SQ", "userNotificationCenter"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "alert"]
+- !private ["s25ExpressibleByArrayLiteralP", "badge"]
+- !private ["s25ExpressibleByArrayLiteralP", "sound"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "backgroundColor"]
+- !private ["s23ExpressibleByNilLiteralP", "purple"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "UNMutableNotificationContent"]
+- !private ["SH", "UNNotificationRequest"]
+- !private ["SH", "UNNotificationSound"]
+- !private ["SH", "UNTimeIntervalNotificationTrigger"]
+- !private ["SH", "UNUserNotificationCenter"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "add"]
+- !private ["SH", "backgroundColor"]
+- !private ["SH", "body"]
+- !private ["SH", "current"]
+- !private ["SH", "default"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "print"]
+- !private ["SH", "purple"]
+- !private ["SH", "scheduleNotification"]
+- !private ["SH", "sound"]
+- !private ["SH", "subtitle"]
+- !private ["SH", "title"]
+- ["SH", "userNotificationCenter"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "UNMutableNotificationContent"]
+- !private ["So8NSCodingP", "UNNotificationRequest"]
+- !private ["So8NSCodingP", "UNNotificationSound"]
+- !private ["So8NSCodingP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So8NSCodingP", "UNUserNotificationCenter"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "backgroundColor"]
+- !private ["So8NSCodingP", "body"]
+- !private ["So8NSCodingP", "default"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "purple"]
+- !private ["So8NSCodingP", "scheduleNotification"]
+- !private ["So8NSCodingP", "sound"]
+- !private ["So8NSCodingP", "subtitle"]
+- !private ["So8NSCodingP", "title"]
+- ["So8NSCodingP", "userNotificationCenter"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "body"]
+- !private ["So9NSCopyingP", "default"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "purple"]
+- !private ["So9NSCopyingP", "sound"]
+- !private ["So9NSCopyingP", "subtitle"]
+- !private ["So9NSCopyingP", "title"]
+- !private ["So26NSExtensionRequestHandlingP", "UNMutableNotificationContent"]
+- !private ["So26NSExtensionRequestHandlingP", "UNNotificationRequest"]
+- !private ["So26NSExtensionRequestHandlingP", "UNNotificationSound"]
+- !private ["So26NSExtensionRequestHandlingP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So26NSExtensionRequestHandlingP", "UNUserNotificationCenter"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "scheduleNotification"]
+- ["So26NSExtensionRequestHandlingP", "userNotificationCenter"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "purple"]
+- !private ["So21NSItemProviderWritingP", "purple"]
+- !private ["So16NSMutableCopyingP", "body"]
+- !private ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "sound"]
+- !private ["So16NSMutableCopyingP", "subtitle"]
+- !private ["So16NSMutableCopyingP", "title"]
+- !private ["So8NSObjectC", "UNMutableNotificationContent"]
+- ["So8NSObjectC", "UNNotification"]
+- ["So8NSObjectC", "UNNotificationPresentationOptions"]
+- !private ["So8NSObjectC", "UNNotificationRequest"]
+- !private ["So8NSObjectC", "UNNotificationSound"]
+- !private ["So8NSObjectC", "UNTimeIntervalNotificationTrigger"]
+- ["So8NSObjectC", "UNUserNotificationCenter"]
+- ["So8NSObjectC", "Void"]
+- !private ["So8NSObjectC", "add"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- !private ["So8NSObjectC", "body"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "purple"]
+- ["So8NSObjectC", "scheduleNotification"]
+- !private ["So8NSObjectC", "sound"]
+- !private ["So8NSObjectC", "subtitle"]
+- !private ["So8NSObjectC", "title"]
+- ["So8NSObjectC", "userNotificationCenter"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "UNMutableNotificationContent"]
+- !private ["So8NSObjectP", "UNNotificationRequest"]
+- !private ["So8NSObjectP", "UNNotificationSound"]
+- !private ["So8NSObjectP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So8NSObjectP", "UNUserNotificationCenter"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "add"]
+- !private ["So8NSObjectP", "backgroundColor"]
+- !private ["So8NSObjectP", "body"]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "purple"]
+- !private ["So8NSObjectP", "scheduleNotification"]
+- !private ["So8NSObjectP", "sound"]
+- !private ["So8NSObjectP", "subtitle"]
+- !private ["So8NSObjectP", "title"]
+- ["So8NSObjectP", "userNotificationCenter"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "body"]
+- !private ["So14NSSecureCodingP", "default"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "purple"]
+- !private ["So14NSSecureCodingP", "sound"]
+- !private ["So14NSSecureCodingP", "subtitle"]
+- !private ["So14NSSecureCodingP", "title"]
+- !private ["16tableViewPratice14NotificationVCC", "UNMutableNotificationContent"]
+- ["16tableViewPratice14NotificationVCC", "UNNotification"]
+- ["16tableViewPratice14NotificationVCC", "UNNotificationPresentationOptions"]
+- !private ["16tableViewPratice14NotificationVCC", "UNNotificationRequest"]
+- !private ["16tableViewPratice14NotificationVCC", "UNNotificationSound"]
+- !private ["16tableViewPratice14NotificationVCC", "UNTimeIntervalNotificationTrigger"]
+- ["16tableViewPratice14NotificationVCC", "UNUserNotificationCenter"]
+- ["16tableViewPratice14NotificationVCC", "Void"]
+- ["16tableViewPratice14NotificationVCC", "deinit"]
+- ["16tableViewPratice14NotificationVCC", "init"]
+- !private ["16tableViewPratice14NotificationVCC", "print"]
+- !private ["16tableViewPratice14NotificationVCC", "scheduleNotification"]
+- ["16tableViewPratice14NotificationVCC", "userNotificationCenter"]
+- !private ["16tableViewPratice14NotificationVCC", "view"]
+- ["16tableViewPratice14NotificationVCC", "viewDidLoad"]
+- !private ["s9OptionSetP", "alert"]
+- !private ["s9OptionSetP", "badge"]
+- !private ["s9OptionSetP", "sound"]
+- !private ["Sq", "backgroundColor"]
+- !private ["Sq", "purple"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "alert"]
+- !private ["SY", "badge"]
+- !private ["SY", "sound"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["s10SetAlgebraP", "alert"]
+- !private ["s10SetAlgebraP", "badge"]
+- !private ["s10SetAlgebraP", "sound"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "UNMutableNotificationContent"]
+- !private ["So21UIAppearanceContainerP", "UNNotificationRequest"]
+- !private ["So21UIAppearanceContainerP", "UNNotificationSound"]
+- !private ["So21UIAppearanceContainerP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So21UIAppearanceContainerP", "UNUserNotificationCenter"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "scheduleNotification"]
+- ["So21UIAppearanceContainerP", "userNotificationCenter"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So7UIColorC", "purple"]
+- !private ["So18UIContentContainerP", "UNMutableNotificationContent"]
+- !private ["So18UIContentContainerP", "UNNotificationRequest"]
+- !private ["So18UIContentContainerP", "UNNotificationSound"]
+- !private ["So18UIContentContainerP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So18UIContentContainerP", "UNUserNotificationCenter"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "scheduleNotification"]
+- ["So18UIContentContainerP", "userNotificationCenter"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "UNMutableNotificationContent"]
+- !private ["So18UIFocusEnvironmentP", "UNNotificationRequest"]
+- !private ["So18UIFocusEnvironmentP", "UNNotificationSound"]
+- !private ["So18UIFocusEnvironmentP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So18UIFocusEnvironmentP", "UNUserNotificationCenter"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "scheduleNotification"]
+- ["So18UIFocusEnvironmentP", "userNotificationCenter"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- !private ["So20UIFocusItemContainerP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "UNMutableNotificationContent"]
+- !private ["So30UIPasteConfigurationSupportingP", "UNNotificationRequest"]
+- !private ["So30UIPasteConfigurationSupportingP", "UNNotificationSound"]
+- !private ["So30UIPasteConfigurationSupportingP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So30UIPasteConfigurationSupportingP", "UNUserNotificationCenter"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "scheduleNotification"]
+- ["So30UIPasteConfigurationSupportingP", "userNotificationCenter"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So11UIResponderC", "UNMutableNotificationContent"]
+- ["So11UIResponderC", "UNNotification"]
+- ["So11UIResponderC", "UNNotificationPresentationOptions"]
+- !private ["So11UIResponderC", "UNNotificationRequest"]
+- !private ["So11UIResponderC", "UNNotificationSound"]
+- !private ["So11UIResponderC", "UNTimeIntervalNotificationTrigger"]
+- ["So11UIResponderC", "UNUserNotificationCenter"]
+- ["So11UIResponderC", "Void"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "print"]
+- ["So11UIResponderC", "scheduleNotification"]
+- ["So11UIResponderC", "userNotificationCenter"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "UNMutableNotificationContent"]
+- !private ["So30UIResponderStandardEditActionsP", "UNNotificationRequest"]
+- !private ["So30UIResponderStandardEditActionsP", "UNNotificationSound"]
+- !private ["So30UIResponderStandardEditActionsP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So30UIResponderStandardEditActionsP", "UNUserNotificationCenter"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "scheduleNotification"]
+- ["So30UIResponderStandardEditActionsP", "userNotificationCenter"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "UNMutableNotificationContent"]
+- !private ["So16UIStateRestoringP", "UNNotificationRequest"]
+- !private ["So16UIStateRestoringP", "UNNotificationSound"]
+- !private ["So16UIStateRestoringP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So16UIStateRestoringP", "UNUserNotificationCenter"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "scheduleNotification"]
+- ["So16UIStateRestoringP", "userNotificationCenter"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "UNMutableNotificationContent"]
+- !private ["So18UITraitEnvironmentP", "UNNotificationRequest"]
+- !private ["So18UITraitEnvironmentP", "UNNotificationSound"]
+- !private ["So18UITraitEnvironmentP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So18UITraitEnvironmentP", "UNUserNotificationCenter"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "scheduleNotification"]
+- ["So18UITraitEnvironmentP", "userNotificationCenter"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "UNMutableNotificationContent"]
+- !private ["So23UIUserActivityRestoringP", "UNNotificationRequest"]
+- !private ["So23UIUserActivityRestoringP", "UNNotificationSound"]
+- !private ["So23UIUserActivityRestoringP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So23UIUserActivityRestoringP", "UNUserNotificationCenter"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "backgroundColor"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "scheduleNotification"]
+- ["So23UIUserActivityRestoringP", "userNotificationCenter"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "backgroundColor"]
+- !private ["So16UIViewControllerC", "UNMutableNotificationContent"]
+- ["So16UIViewControllerC", "UNNotification"]
+- ["So16UIViewControllerC", "UNNotificationPresentationOptions"]
+- !private ["So16UIViewControllerC", "UNNotificationRequest"]
+- !private ["So16UIViewControllerC", "UNNotificationSound"]
+- !private ["So16UIViewControllerC", "UNTimeIntervalNotificationTrigger"]
+- ["So16UIViewControllerC", "UNUserNotificationCenter"]
+- ["So16UIViewControllerC", "Void"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "print"]
+- ["So16UIViewControllerC", "scheduleNotification"]
+- ["So16UIViewControllerC", "userNotificationCenter"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["So28UNMutableNotificationContentC", "body"]
+- !private ["So28UNMutableNotificationContentC", "init"]
+- !private ["So28UNMutableNotificationContentC", "sound"]
+- !private ["So28UNMutableNotificationContentC", "subtitle"]
+- !private ["So28UNMutableNotificationContentC", "title"]
+- !private ["So21UNNotificationContentC", "body"]
+- !private ["So21UNNotificationContentC", "init"]
+- !private ["So21UNNotificationContentC", "sound"]
+- !private ["So21UNNotificationContentC", "subtitle"]
+- !private ["So21UNNotificationContentC", "title"]
+- !private ["So33UNNotificationPresentationOptionsV", "alert"]
+- !private ["So33UNNotificationPresentationOptionsV", "badge"]
+- !private ["So33UNNotificationPresentationOptionsV", "sound"]
+- !private ["So21UNNotificationRequestC", "init"]
+- !private ["So19UNNotificationSoundC", "default"]
+- !private ["So21UNNotificationTriggerC", "init"]
+- !private ["So33UNTimeIntervalNotificationTriggerC", "init"]
+- !private ["So24UNUserNotificationCenterC", "add"]
+- !private ["So24UNUserNotificationCenterC", "current"]
+- !private ["So32UNUserNotificationCenterDelegateP", "UNMutableNotificationContent"]
+- !private ["So32UNUserNotificationCenterDelegateP", "UNNotificationRequest"]
+- !private ["So32UNUserNotificationCenterDelegateP", "UNNotificationSound"]
+- !private ["So32UNUserNotificationCenterDelegateP", "UNTimeIntervalNotificationTrigger"]
+- !private ["So32UNUserNotificationCenterDelegateP", "UNUserNotificationCenter"]
+- ["So32UNUserNotificationCenterDelegateP", ""]
+- !private ["So32UNUserNotificationCenterDelegateP", "print"]
+- !private ["So32UNUserNotificationCenterDelegateP", "scheduleNotification"]
+- ["So32UNUserNotificationCenterDelegateP", "userNotificationCenter"]
+- !private ["So32UNUserNotificationCenterDelegateP", "view"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "purple"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UNMutableNotificationContent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UNNotificationRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UNNotificationSound"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UNTimeIntervalNotificationTrigger"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UNUserNotificationCenter"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "add"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "body"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "purple"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scheduleNotification"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sound"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "subtitle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "title"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userNotificationCenter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "backgroundColor"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "purple"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- "16tableViewPratice14NotificationVCC"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "s10SetAlgebraP"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "So28UNMutableNotificationContentC"
+- !private "So21UNNotificationContentC"
+- !private "So33UNNotificationPresentationOptionsV"
+- !private "So21UNNotificationRequestC"
+- !private "So19UNNotificationSoundC"
+- !private "So21UNNotificationTriggerC"
+- !private "So33UNTimeIntervalNotificationTriggerC"
+- !private "So24UNUserNotificationCenterC"
+- "So32UNUserNotificationCenterDelegateP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b24921f313a56a805b4bd3ddce430771"

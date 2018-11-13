@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "66202a0efccf1adb7fc03547d85693e9"
+build_time: [1542112469, 202783000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/CollectionView/CollectionView.swift": [1542085380, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/Coredata/Person+CoreDataClass.swift": [1542097909, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/ViewController.swift": [1542112467, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/AppDelegate.swift": [1542094999, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/TableView/namesList.swift": [1542083650, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/TableView/listCell.swift": [1542082794, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/Notifications/Notification.swift": [1542094938, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/Coredata/Coredata.swift": [1542111546, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/Coredata/Person+CoreDataProperties.swift": [1542097924, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/CollectionView/collectionCell.swift": [1542085535, 0]
+  "/Users/sriramprasad/Dev/rough/tableViewPratice/tableViewPratice/Coredata/DataBaseHandler.swift": [1542110902, 0]
